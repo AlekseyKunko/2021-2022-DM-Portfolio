@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Aleksey´s Portfolio
 
 You can use the [editor on GitHub](https://github.com/AlekseyKunko/2021-2022-DM-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
