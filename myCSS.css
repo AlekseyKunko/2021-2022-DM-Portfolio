@@ -9,14 +9,14 @@ body {
      	color: #000;
 }
 .homePage {
-	background: #1D805B;
+	background: #808080;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #E9AAE2;
+	background: #fe5a1d;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
